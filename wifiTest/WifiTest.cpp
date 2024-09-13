@@ -99,7 +99,7 @@ loop2:	scanf("%d", &select);
 		{
 			system("cls");
 			face();
-			printf("Incorrect number, input again:\n");
+			printf(Incorrect number, input again:\n");
 			goto loop2;
 			next();
 		} //default

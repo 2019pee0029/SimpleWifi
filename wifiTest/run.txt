@@ -1,0 +1,1 @@
+g++ -o wifiTest_systemC WifiTest.cpp -I$SYSTEMC_HOME/include -L$SYSTEMC_HOME/lib -lsystemc -lm
